@@ -1,5 +1,5 @@
 .idea/
 vendor/
-#workspace/
+workspace/
 composer.phar
 composer.lock
